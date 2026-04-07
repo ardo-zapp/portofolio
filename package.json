@@ -25,7 +25,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10",
-    "eslint": "^8",
+    "eslint": "^10",
     "eslint-config-next": "16.1.6",
     "postcss": "^8",
     "tailwindcss": "^3"
